@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(180deg, #D81F25);
+}
+
+header {
+    color:white;
+    font-family: Koulen;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 10px;
+}
+
+#home_img{
+    max: width 100px;
+    height: auto;
+    flex-shrink: 0;
+    aspect-ratio: 739/423;
+}
+
+a:visited {
+    color:rgb(215, 169, 169);
+    background-color:transparent;
+    text-decoration:none;
+}
+
+a:link {
+    color:white;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+
+a:hover {
+    color:white;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+#intro_text {
+    width: 1173px;
+    height: 399px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Finlandica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 9px;
+}
+
+#last_banner {
+    width: 1234px;
+    height: 617px;
+    flex-shrink: 0;
+}
+
+#background_img {
+    max: width 100px;
+    height: auto;
+    flex-shrink: 0;
+    background: url(/_ASSETS/bg.png) #D81F25 50% / cover no-repeat;
+    background-blend-mode: darken;
+}
+
+footer{
+    background-color:#771313;
+}
+
+#sm_icons{
+    text-align:center
+}
+
+#footer_img{
+    width: 290px;
+    height: 290px;
+    flex-shrink: 0;
+}
+    #footer_msg{
+    color: #FFF;
+    font-family: Fredoka;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 6.25px;
+}
