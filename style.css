@@ -73,7 +73,7 @@ a:hover {
     max: width 100px;
     height: auto;
     flex-shrink: 0;
-    background: url(/_ASSETS/bg.png) #D81F25 50% / cover no-repeat;
+    background: url(bg.png) #D81F25 50% / cover no-repeat;
     background-blend-mode: darken;
 }
 
